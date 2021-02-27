@@ -234,4 +234,4 @@ It is recommended to set this one to `true` on very expensive computed values. I
 
 ### `keepAlive`
 
-This avoids suspending computed values when they are not being observed by anything (see the above explanation). Can potentially create memory leaks, similar to the ones discussed for [reactions](reactions.md#always-dispose-of-reactions).
+This avoids suspending computed values when they are not being observed by anything (see the above explanation). Can potentially create memory leaks, similar to the ones discussed for [reactions](reactions.md#always-4dispose-of-reactions).
